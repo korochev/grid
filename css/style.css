@@ -307,7 +307,8 @@ h2:not(.benefits-info__heading) {
 
 @media (min-width:510px) and (max-width:620px) {
     .hero {
-        padding-top: 172px;
+        padding-top:172px;
+        margin-top:-172px;
     }
 }
 
