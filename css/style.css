@@ -570,7 +570,7 @@ h2:not(.benefits-info__heading) {
 
 /* Устранение смещения якорей */
 
-section:not(.hero)>span {
+/*section:not(.hero)>span {
     position: relative;
     display: block;
     top: -100px;
@@ -581,4 +581,4 @@ section:not(.hero)>span {
     section:not(.hero)>span {
         top: -200px;
     }
-}
+}*/
