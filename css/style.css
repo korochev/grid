@@ -573,7 +573,7 @@ h2:not(.benefits-info__heading) {
 section:not(.hero)>span {
     position: relative;
     display: block;
-    top: -100px;
+    top: -88px;
     visibility: hidden;
 } 
 
