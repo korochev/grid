@@ -76,7 +76,11 @@ h2:not(.benefits-info__heading) {
 /* ======================Шапка=страницы======================= */
 
 .header {
-    position: fixed;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -o-sticky;
+    position: -ms-sticky;
+    position: sticky;
     top: 0;
     left: 0;
     right: 0;
