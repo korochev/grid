@@ -190,6 +190,10 @@ h2:not(.benefits-info__heading) {
 }
 
 @media (max-width:510px) {
+    .menu__link:hover {
+        text-decoration: none;
+    }
+    
     section:not(.hero) {
         padding-top: 50px;
         padding-bottom: 50px;
@@ -577,7 +581,7 @@ h2:not(.benefits-info__heading) {
 section:not(.hero)>span {
     position: relative;
     display: block;
-    top: -88px;
+    top: -100px;
     visibility: hidden;
 } 
 
