@@ -250,7 +250,7 @@ h2:not(.benefits-info__heading) {
 .hero {
     min-height: 500px;
     height: 100%;
-    padding-top: 88px;
+    /* padding-top: 88px; */
     background: radial-gradient(44.07% 44.07% at 67.78% 55.93%, #555681 0%, #212133 100%);
 }
 
