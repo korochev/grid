@@ -20,6 +20,13 @@ body {
     overflow:auto;
 }
 
+body,
+.benefits,
+.courses,
+.footer__bottom {
+    background-color: var(--second-color);
+}
+
 h1,
 h2,
 p {
